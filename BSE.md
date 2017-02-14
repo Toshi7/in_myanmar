@@ -9,7 +9,7 @@ In a lot of ways it's being a project or development manager, but focused on the
 Reference [What is "Bridge System Engineer"?](http://stackoverflow.hewgill.com/questions/587/162/8.html)
 
 
-### These are the list of the things BSE might have to do 
+### These are the list of the things BSE might have to do. However, these are not always case. It depends on situation you will have.
  - translate language
     - explain system desgin
     - explain some documents 
