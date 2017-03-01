@@ -8,3 +8,9 @@ To start a poker planning session, the product owner or customer reads an agile 
 
 Reference - [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
 
+There are other ways to estimate work
+- [Story points](https://www.mountaingoatsoftware.com/blog/what-are-story-points)
+- Analogous Estimating
+- function point
+- use-case
+- WBS(Work Breakdown Structure)
